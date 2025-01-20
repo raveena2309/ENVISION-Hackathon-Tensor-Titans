@@ -13,8 +13,8 @@ Aditya Bhalerao<br/>
 Aryan Karmore<br/>
 Raveena Basarimarad<br/>
 Tushar Singh<br/>
-ABSTRACT:<br/>
-	<p>The rapid increase in the fake news possesses a significant threat to the society impacting public opinion, decision making and trust in media. This project aims to develop our robust machine learning model for the fake news detection starting from the ground up by collection of a diverse dataset of news from the sources like reputable websites such as PolitiFact and Fact Check platforms curating and analysing a custom dataset. BeautifulSoup is used to extract key information including 5 columns viz Sources,Target,author,Date and Statement with 5970 rows . This curated dataset serves as a foundation for future machine learning applications highlighting the critical role of web scraping in building a reliable pathway for preventing the spread of misinformation and advancing the fake news detection research.</p>
+<br/><br/>
+ <p>The rapid increase in the fake news possesses a significant threat to the society impacting public opinion, decision making and trust in media. This project aims to develop our robust machine learning model for the fake news detection starting from the ground up by collection of a diverse dataset of news from the sources like reputable websites such as PolitiFact and Fact Check platforms curating and analysing a custom dataset. BeautifulSoup is used to extract key information including 5 columns viz Sources,Target,author,Date and Statement with 5970 rows . This curated dataset serves as a foundation for future machine learning applications highlighting the critical role of web scraping in building a reliable pathway for preventing the spread of misinformation and advancing the fake news detection research.</p>
 
 
 
